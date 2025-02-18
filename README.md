@@ -1,30 +1,26 @@
-# Contact info
-## Name,
-Mohanned Khaled
-## job title, 
+# contact info
+## name:
+Mohamnmed Khaled
+## job title:
 backend developer
-## phone number,
-1234567890
-## Website url,
+## phone number: 
+123456778890
+## my website:
+
 [visit my website](https://mohammedkhaled.com)
-
-
-## my inage: 
-[this is my image](mohammed-khaled-professional-inage.jpg)
-
-
-### audio:
-[click here to listem this audio](audio.mp3)
+## my inage:
+[](mohammed-khaled-professional-inage.jpg)
 
 # project details:
-- learning
-- test project
-- develop GitHub
-- testing markdown
+- learning 
+- developing
+- testing
+- learning and
+testing
 
-# project developers
-
-1. mohammed Khaled
-2. farid mohammed
-3. ahmed saad
-4. donia mohammed
+# project developers:
+1. mohammed
+2. ahmed
+3. sarah
+4. ahmed
+saad
