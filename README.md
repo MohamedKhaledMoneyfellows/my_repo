@@ -1,25 +1,28 @@
-# Contact info
-## name:
+# Contact Info
+
+## Name:
 Mohammed Khaled
 
-## Job title:
-backend developer
-##Phone number:
+## Job Title:
+Backend Developer
+
+## Phone Number:
 1234566
 
-## Website url:
-[visigt my website](https://mohammedkhaled.com)
+## Website URL:
+[Visit my website](https://mohammedkhaled.com)
 
-## image:
-[this is my inage](mohammed khaled professional inage.jpg)
+## Image:
+[This is my image](mohammed-khaled-professional-image.jpg)
 
+# Project Details
 
+- Files
+- Test Project
+- Learn
 
-#project details
-files
-test project
-learn
-# project owners
-1. mohammed Khaled
-2. ahmed saad
-3, farid mohammed
+# Project Owners
+
+1. Mohammed Khaled
+2. Ahmed Saad
+3. Farid Mohammed
