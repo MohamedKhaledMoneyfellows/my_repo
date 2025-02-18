@@ -9,7 +9,7 @@ backend developer
 
 [visit my website](https://mohammedkhaled.com)
 ## my inage:
-[](mohammed-khaled-professional-inage.jpg)
+[this is my inage](mohammed-khaled-professional-inage.jpg)
 
 # project details:
 - learning 
